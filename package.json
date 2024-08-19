@@ -1,0 +1,10 @@
+{
+  "name": "tafqeetjs",
+  "version": "1.0.0",
+  "description": "كود بسيط يقوم بتحويل الأرقام إلى حروف عربية",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only"
+}
